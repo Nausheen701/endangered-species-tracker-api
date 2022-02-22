@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Species.create(name: 'African Elephant', status: 'critically endangered', population: 'unknown', habitat: 'dense tropical forests', threats: 'poaching')
