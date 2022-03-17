@@ -46,6 +46,6 @@ class SpeciesController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def species_params
-      params.require(:species).permit(:name, :status, :population, :habitat, :threats, :conservation_efforts, :image_url)
+      params.require(:species).permit(:name, :status, :population, :places, :habitat, :rate_of_decline, :threats, :conservation_efforts, :image_url)
     end
 end
