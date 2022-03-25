@@ -58,7 +58,7 @@ Species.create([{
     places: 'Northern Great Plains',
     threats: 'Habitat and food source loss, non-native disease',
     conservation_efforts: 'Population rehabilitation in captivity',
-    image_url: 'https://www.fws.gov/mountain-prairie/es/images/mammals/blackFootedFerretShow/blackFootedFerretOne.jpg'
+    image_url: 'https://cdn.pixabay.com/photo/2014/07/08/12/40/picture-386745__480.jpg'
 
 
 },  {name: 'Pangolin',
